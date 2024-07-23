@@ -1,0 +1,59 @@
+{
+    "workshoptitle": "MySQL Enterprise Edition - Implementation Essentials Bootcamp",
+    "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+                "sample.json":"../../data-load/files/sample.json",
+                "step2.md":"../../data-load/files/step2.md"},
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "description": "The Introduction is always first. The title and contents menu title match for the Introduction.",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Create Virtual Cloud Network and Related Components",
+            "description": "Create Virtual Cloud Network and Related Components",
+            "filename": "../../create-vcn/create-vcn.md"
+        },
+        {
+            "title": "Lab 2: Create Linux Compute Instance",
+            "description": "Create Linux Compute Instance",
+            "filename": "../../create-compute/create-compute.md"
+        },
+        {
+            "title": "Lab 3: Setup",
+            "description": "Setup",
+            "filename": "../../setup/setup.md"
+        },
+        {
+            "title": "Lab 4: Install - MySQL Enterprise Edition",
+            "description": "Install - MySQL Enterprise Edition",
+            "filename": "../../install-ee-rpm/install-ee.md"
+        },
+        {
+            "title": "Lab 5: ***OPTIONAL*** Install - Verify MySQL Enterprise Edition ",
+            "description": "Install - Verify MySQL Enterprise Edition",
+            "filename": "../../install-verify-ee/install-verify-ee.md"
+        },
+        {
+            "title": "Lab 6: Deploying - InnoDB ReplicaSets",
+            "description": "Deploying - InnoDB ReplicaSets",
+            "filename": "../../innodb-replicasets/replicasets.md"
+        },
+        {
+            "title": "Lab 7: Deploying - InnoDB Clusters",
+            "description": "Deploying - InnoDB Clusters",
+            "filename": "../../innodb-clusters/innodbcluster.md"
+        },
+        {
+            "title": "Lab 8: Deploying - InnoDB ClusterSets",
+            "description": "Deploying - InnoDB ClusterSets",
+            "filename": "../../innodb-clustersets/innodbclustersets.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename":"https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/need-help/need-help-freetier.md"
+        }
+    ]
+}
