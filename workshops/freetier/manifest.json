@@ -36,9 +36,9 @@
             "filename": "../../install-verify-ee/install-verify-ee.md"
         },
         {
-            "title": "Lab 6: Deploying - InnoDB ReplicaSets",
-            "description": "Deploying - InnoDB ReplicaSets",
-            "filename": "../../innodb-replicasets/replicasets.md"
+            "title": "Lab 6: Plugin - Installing MySQL Plugin",
+            "description": "Plugin - Installing MySQL Plugin",
+            "filename": "../../installing_plugin/installingplugin.md"
         },
         {
             "title": "Lab 7: Deploying - InnoDB Clusters",
